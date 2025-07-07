@@ -1337,7 +1337,7 @@ def Subscraption():
 		print ("")
 		name = input(" Your Name : ")
 		print ("")
-		father name= input("Your father Name :")
+		gf = input(" Your gf Name : ")
 		print ("")
 		lol = input(" Your Your Email : ")
 		print ("")
